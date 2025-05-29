@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niyepes&label=Profile%20views&color=0e75b6&style=flat" alt="kgnot" /> </p>
 
+🏡 Ubicación: Bogotá, Colombia
+
 🌱 **Actualmente aprendiendo**:
 - Microservicios
 - Arquitecturas Limpias
 - Introducción a CI/CD
-- Fundamentos de Cloud con AWS
-
-🏡 Ubicación: Bogotá, Colombia  
+- Fundamentos de Cloud con AWS  
 
 ---
 
