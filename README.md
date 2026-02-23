@@ -13,9 +13,18 @@
 
 ---
 
-<h3 align="left">Lenguajes y Liberías:</h3>
+<h2 align="left">Lenguajes y Liberías</h2>
+
+<h3 align="left">Frontend:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"  width="40" height="40"/>
+</p> 
+
+<h3 align="left">Backend:</h3>
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring-boot" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original-wordmark.svg" alt="hibernate" width="40" height="40"/>
@@ -35,10 +44,14 @@
 <h3 align="left">Otras Tecnologías:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40"     height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original-wordmark.svg" alt="kubernetes"  width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original-wordmark.svg" alt="maven" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original-wordmark.svg" alt="postman"  width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original-wordmark.svg" alt="prometheus"  width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg" alt="grafana"  width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices"  width="40" height="40"/>
 </p>
 
 ---
@@ -48,16 +61,9 @@ Estudio la carrera de Ingeniería de Sistemas en la Universidad Distrital Franci
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niyepes&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niyepes&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
-
 <h3 align="left">📊 GitHub Analytics:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=niyepes&show_icons=true&theme=radical" alt="GitHub stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=niyepes&theme=radical" alt="GitHub streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=niyepes&show_icons=true&theme=radical" alt="Henry's GitHub stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=niyepes&theme=radical" alt="GitHub streak" width="48%" />
 </p>
 
